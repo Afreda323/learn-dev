@@ -6,7 +6,7 @@ Below is a list of things you would typically need to know to get employed as a 
 
 If I have missed anything, or am lacking in the resources department, feel free to hit me with a PR and I'd be happy to add it to the list.
 
-Also please note that some of the resources lifted are part of paid services.  I'm trying to keep this as low cost as possible, but I can't help that some of the best resources cost some money.  TeamTreehouse has a 7 day free trial and costs \$25 a month and you can usually score Udemy courses for under \$20.
+Also please note that some of the resources lifted are part of paid services. I'm trying to keep this as low cost as possible, but I can't help that some of the best resources cost some money. TeamTreehouse has a 7 day free trial and costs \$25 a month and you can usually score Udemy courses for under \$20.
 
 ## Why?
 
@@ -16,16 +16,15 @@ It can also be a little difficult for beginners to find things that are up to da
 
 ## Getting Started
 
-To write some code, you're going to need an editor.  Head on over to https://code.visualstudio.com and download and install the latest release.  Open and mess around with it for a little while, once comfortable move on with the guide.  You're ready to write some code.
+To write some code, you're going to need an editor. Head on over to https://code.visualstudio.com and download and install the latest release. Open and mess around with it for a little while, once comfortable move on with the guide. You're ready to write some code.
 
 Every section of this guide has a set of links to tutorials as well as a list of other resources that I find will help as a supplement to the guides.
 
-Aside from links, this guide also has some projects for you to do.  You are not limited to these, so if you want to build your own stuff in the process, feel free.  The more you make the better you will get.
-
+Aside from links, this guide also has some projects for you to do. You are not limited to these, so if you want to build your own stuff in the process, feel free. The more you make the better you will get.
 
 ## Challenge Yourself
 
-Once you make it through the javascript section, I recommend that you head to these links and do at least one challenge a day.  It will dramatically help with your critical thinking and interview skills.
+Once you make it through the javascript section, I recommend that you head to these links and do at least one challenge a day. It will dramatically help with your critical thinking and interview skills.
 
 - hackerrank.com
 - codewars.com
@@ -77,13 +76,12 @@ Once you make it through the javascript section, I recommend that you head to th
 
 # Front End
 
-> Front-end web development is the practice of converting data to graphical interface for user to view and interact with data through digital interaction using HTML, CSS and JavaScript. 
-[Wikipedia](https://en.wikipedia.org/wiki/Front-end_web_development)
+> Front-end web development is the practice of converting data to graphical interface for user to view and interact with data through digital interaction using HTML, CSS and JavaScript.
+> [Wikipedia](https://en.wikipedia.org/wiki/Front-end_web_development)
 
-Front end development has blown up into a very complex field in recent years.  What was once handled directly on the server has made it's way to the browser, whether that's caching data, handling interactions with external services, or a plethora of other things.  You now also have to accommodate for various different screen sizes, as well as take into account performance and accessibility.
+Front end development has blown up into a very complex field in recent years. What was once handled directly on the server has made it's way to the browser, whether that's caching data, handling interactions with external services, or a plethora of other things. You now also have to accommodate for various different screen sizes, as well as take into account performance and accessibility.
 
-While it is not necessary to know everything front end to get a job, there is certainly a lot you do have to know.  So below, I am going to do my best to point you in the best direction. So hopefully, if you stick with it, you'll have a pretty sweet resume and portfolio full of sweet skills and projects to show off to the world, and most likely get your foot in the door of what in my opinion is one the most fulfilling careers out there.
-
+While it is not necessary to know everything front end to get a job, there is certainly a lot you do have to know. So below, I am going to do my best to point you in the best direction. So hopefully, if you stick with it, you'll have a pretty sweet resume and portfolio full of sweet skills and projects to show off to the world, and most likely get your foot in the door of what in my opinion is one the most fulfilling careers out there.
 
 ## Getting your feet wet
 
@@ -91,22 +89,34 @@ It's time to see if this is really something you want to do.
 
 #### HTML & CSS Basics
 
-HTML and CSS are the building blocks of the web.  HTML is how you define all of the text, images, links, etc on the page.  CSS is how you make it all look good and accessible to the user.
+HTML and CSS are the building blocks of the web. HTML is how you define all of the text, images, links, etc on the page. CSS is how you make it all look good and accessible to the user.
 
 **Warning:** This may seem a little scary at first, but I promise that if you stick with it, it will be super rewarding.
 
 ##### Courses
 
-- Treehouse
-- udemy
+There may be some overlap between the videos, but repetition is good for learning this stuff. All resources here are free
+
+- Intro To Web Dev _series_
+  - [Part One](https://www.youtube.com/watch?v=88QJumITbQA)
+  - [Part Two](https://www.youtube.com/watch?v=88QJumITbQA)
+- [Intro to HTML](https://www.youtube.com/watch?v=UB1O30fR-EE)
+- [Intro to CSS](https://www.youtube.com/watch?v=yfoY53QXEnI)
+- Learn how to build a website _series_
+  - [HTML Part One](https://www.youtube.com/watch?v=BvJYXl2ywUE)
+  - [HTML Part Two](https://www.youtube.com/watch?v=PypMN-yui4Y)
+  - [ HTML Part Three](https://www.youtube.com/watch?v=1rbo_HHt5nw)
+  - [CSS](https://www.youtube.com/watch?v=1PnVor36_40)
 
 ##### Other Resources
 
-- blog post
+- [HTML in 5 minutes](https://medium.freecodecamp.org/learn-html-in-5-minutes-ccd378d2ab72)
+- [Get Better at CSS](https://medium.freecodecamp.org/how-to-get-better-at-writing-css-a1732c32a72f)
+- [CSS Tricks](https://css-tricks.com/)
 
 #### First Project
 
-It's time to put your new skills to the test, find one of your favorite websites on the internet, and do your best to clone it with HTML and CSS.  I would recommend starting with something simple, but if that's too easy, feel free to find something more comlex and clone that too.
+It's time to put your new skills to the test, find one of your favorite websites on the internet, and do your best to clone it with HTML and CSS. I would recommend starting with something simple, but if that's too easy, feel free to find something more comlex and clone that too.
 
 If you find yourself stuck, feel free to look up how to do things, it's good to get into this habit as early on as possible.
 
@@ -116,13 +126,13 @@ If you find yourself stuck, feel free to look up how to do things, it's good to 
 
 ## Having Fun Yet?
 
-Now that you have at least one custom built website under your belt, you can move onto the more exciting things, like learning your first CSS framework as well as how to lay out more advanced pages.  
+Now that you have at least one custom built website under your belt, you can move onto the more exciting things, like learning your first CSS framework as well as how to lay out more advanced pages.
 
 It is also a good time to learn git so that you can push your code to the internet and share it with the world.
 
 #### Intermediate HTML & CSS
 
-Previously, you only scratched the surface when it comes to the languages of the web. You will now learn about a bunch more HTML tags, as well as some advanced layout and positioning techniques with CSS including Flexbox and the brand new CSS-Grid. 
+Previously, you only scratched the surface when it comes to the languages of the web. You will now learn about a bunch more HTML tags, as well as some advanced layout and positioning techniques with CSS including Flexbox and the brand new CSS-Grid.
 
 The below links will take your skills to the next level.
 
@@ -137,7 +147,7 @@ The below links will take your skills to the next level.
 
 #### Bootstrap
 
-When first released, bootstrap was one of the biggest things to hit the internet.  It streamlined a lot of tedious styling tasks, as well as made a bunch of sites on the internet look pretty damn good.  Some of these sites inlcude Lyft, TurboTax and Spotify.
+When first released, bootstrap was one of the biggest things to hit the internet. It streamlined a lot of tedious styling tasks, as well as made a bunch of sites on the internet look pretty damn good. Some of these sites inlcude Lyft, TurboTax and Spotify.
 
 ##### Courses
 
@@ -150,7 +160,7 @@ When first released, bootstrap was one of the biggest things to hit the internet
 
 #### Second Project
 
-It's time for some challenges.  Head over to [Front End Mentor](https://frontendmentor.io) and browse the challenges.  Complete at least two of the beginner challenges, and if you feel brave, do at least one intermediate challenge.  Once you do this, you should feel pretty comfortable about where you stand with HTML and CSS.
+It's time for some challenges. Head over to [Front End Mentor](https://frontendmentor.io) and browse the challenges. Complete at least two of the beginner challenges, and if you feel brave, do at least one intermediate challenge. Once you do this, you should feel pretty comfortable about where you stand with HTML and CSS.
 
 ##### Links
 
@@ -159,9 +169,9 @@ It's time for some challenges.  Head over to [Front End Mentor](https://frontend
 
 #### Git
 
-Git is an open source version control system that makes working with others a breeze, it is a foundational part of day to day development and is a must to know if you want to get into the field.  It is super fast and easy to use. 
+Git is an open source version control system that makes working with others a breeze, it is a foundational part of day to day development and is a must to know if you want to get into the field. It is super fast and easy to use.
 
-GitHub is a place to host your code and share it with others.  As well as contribute to other people's code.
+GitHub is a place to host your code and share it with others. As well as contribute to other people's code.
 
 Once you're comfortable with git, psuh all of your completed projects to GitHub.
 
@@ -176,7 +186,7 @@ Once you're comfortable with git, psuh all of your completed projects to GitHub.
 
 #### Portfolio Website
 
-Feel like a pro yet? If so, it's time to build yourself a portfolio website.  When doing this, be sure to have at least the following pages:
+Feel like a pro yet? If so, it's time to build yourself a portfolio website. When doing this, be sure to have at least the following pages:
 
 - About (Talk about yourself)
 - Work (Explain the projects you have previously done)
@@ -188,7 +198,7 @@ Feel like a pro yet? If so, it's time to build yourself a portfolio website.  Wh
 
 #### Deploying your sites
 
-Having some HTML and CSS sitting on your computer/GitHub is cool and all, but it would be a lot better to actually have something live on the internet.  Below is several tutorials for the different flavors of pushing your sites to a live server or CDN.
+Having some HTML and CSS sitting on your computer/GitHub is cool and all, but it would be a lot better to actually have something live on the internet. Below is several tutorials for the different flavors of pushing your sites to a live server or CDN.
 
 ##### Resources
 
@@ -226,7 +236,7 @@ coming soon...
 
 #### Devtools
 
-coming soon...
+coming soon...(eslint, markdown, prettier, etc)
 
 ## React
 
@@ -314,4 +324,4 @@ coming soon...
 
 # Other Things to Keep Up With
 
-coming soon... --> 
+coming soon... -->
