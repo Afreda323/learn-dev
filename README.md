@@ -16,7 +16,6 @@ It can also be a little difficult for beginners to find things that are up to da
 
 - [Front End](#front-end)
   - [Getting your feet wet](#getting-your-feet-wet)
-    - [Intro to Web Development](#intro-to-web-development)
     - [HTML & CSS Basics](#html-css-basics)
     - [First Project](#first-project)
   - [Still here?](#still-here)
@@ -69,15 +68,11 @@ While it is not necessary to know everything front end to get a job, there is ce
 
 ### Getting your feet wet
 
-coming soon...
-
-<!-- #### Intro to Web Development
-
-coming soon...
+It's time to see if this is really something you want to do.
 
 #### HTML & CSS Basics
 
-coming soon...
+HTML and CSS are the building blocks of the web.  HTML is how you define all of the text, images, links, etc on the page.  CSS is how you make it all look good and accessible to the user.
 
 #### First Project
 
@@ -85,7 +80,9 @@ coming soon...
 
 ### Still here?
 
-coming soon...
+Now that you have at least one custm built website under your belt, you can move onto the more exciting things, like learning your first CSS framework as well as how to lay out more advanced pages.  
+
+It is also a good time to learn git so that you can push your code to the internet and share it with the world.
 
 #### Intermediate HTML & CSS
 
