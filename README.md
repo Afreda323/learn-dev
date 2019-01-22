@@ -14,6 +14,19 @@ While there are plenty of resources online for learning the tools of the trade, 
 
 It can also be a little difficult for beginners to find things that are up to date with this rapidly advancing field. So I am making it a priority to keep this list updated.
 
+## Getting Started
+
+Every section of this guide has a set of links to tutorials as well as a list of other resources that I find will help as a supplement to the guides.
+
+Aside from links, this guide also has some projects for you to do.  You are not limited to these, so if you want to build your own stuff in the process, feel free.  The more you make the better you will get.
+
+Once you make it through the javascript section, I recommend that you head to these links and do at least one challenge a day.  It will dramatically help with your critical thinking and interview skills.
+
+##### Challenge Sites
+
+- hackerrank.com
+- codewars.com
+
 ## Table of Contents
 
 - [Front End](#front-end)
@@ -75,6 +88,8 @@ It's time to see if this is really something you want to do.
 #### HTML & CSS Basics
 
 HTML and CSS are the building blocks of the web.  HTML is how you define all of the text, images, links, etc on the page.  CSS is how you make it all look good and accessible to the user.
+
+**Warning:** This may seem a little scary at first, but I promise that if you stick with it, it will be super rewarding.
 
 ##### Courses
 
@@ -141,7 +156,9 @@ Feel like a pro yet? If so, it's time to build yourself a portfolio website.  Wh
 
 #### Git
 
-Git is an open source version control system that makes working with others a breeze, it is a foundational part of day to day development and is a must to know if you want to gewt into the field.  GitHub is a place to host your code and share it with others.
+Git is an open source version control system that makes working with others a breeze, it is a foundational part of day to day development and is a must to know if you want to get into the field.  It is super fast and easy to use. 
+
+GitHub is a place to host your code and share it with others.  As well as contribute to other people's code.
 
 ##### Courses
 
@@ -156,12 +173,7 @@ Git is an open source version control system that makes working with others a br
 
 Having some HTML and CSS sitting on your computer/GitHub is cool and all, but it would be a lot better to actually have something live on the internet.  Below is several tutorials for the different flavors of pushing your sites to a live server or CDN.
 
-##### Courses
-
-- Treehouse
-- udemy
-
-##### Other Resources
+##### Resources
 
 - blog post
 
@@ -169,7 +181,7 @@ Having some HTML and CSS sitting on your computer/GitHub is cool and all, but it
 
 coming soon...
 
-#### On to Javascript
+<!-- #### On to Javascript
 
 coming soon...
 
@@ -285,4 +297,4 @@ coming soon...
 
 ## Other Things to Keep Up With
 
-coming soon... -->
+coming soon... --> 
