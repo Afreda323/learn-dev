@@ -1,12 +1,16 @@
-# Get a Dev Job
+# Get a Dev Job 2019
 
 ## What?
 
-blah,blah,blah,blah
+Below is a list of things you would typically need to know to get employed as a junior-mid level developer in 2019. I made this so that I can have a place to point people that have any questions for me about the steps they should take to try and break into the field.
+
+If I have missed anything, or am lacking in the resources department, feel free to hit me with a PR and I'd be happy to add it to the list.
 
 ## Why?
 
-blah,blah,blah,blah
+While there are plenty of resources online for learning the tools of the trade, it can be a little hard for someone new to the game to find what they need, especially when most of the time they aren't sure exactly what "it" is.
+
+It can also be a little difficult for beginners to find things that are up to date with this rapidly advancing field. So I am making it a priority to keep this list updated.
 
 ## Table of Contents
 
@@ -50,6 +54,7 @@ blah,blah,blah,blah
     - [Gatsby](#gatsby)
     - [TypeScript](#typescript)
 - [Back End](#back-end)
+- [Other things to Keep Up With](#other-things-to-keep-up-with)
 
 ## Front End
 
@@ -206,5 +211,9 @@ coming soon...
 coming soon...
 
 ## Back End
+
+coming soon...
+
+## Other Things to Keep Up With
 
 coming soon...
