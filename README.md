@@ -1,4 +1,4 @@
-# Get a Dev Job 2019
+# Getting Dev Job Ready in 2019
 
 ## What?
 
@@ -49,6 +49,7 @@ It can also be a little difficult for beginners to find things that are up to da
     - [Applying for jobs](#applying-for-jobs)
   - [Going Deeper](#going-deeper)
     - [Computer Science](#computer-science)
+    - [Linting](#linting)
     - [Testing](#testing)
     - [Mobile Apps with React Native](#mobile-apps-with-react-native)
     - [Gatsby](#gatsby)
@@ -58,7 +59,13 @@ It can also be a little difficult for beginners to find things that are up to da
 
 ## Front End
 
-coming soon...
+> Front-end web development is the practice of converting data to graphical interface for user to view and interact with data through digital interaction using HTML, CSS and JavaScript. 
+[Wikipedia](https://en.wikipedia.org/wiki/Front-end_web_development)
+
+Front end development has blown up into a very complex field in recent years.  What was once handled directly on the server has made it's way to the browser, whether that's caching data, handling interactions with external services, or a plethora of other things.  You now also have to accommodate for various different screen sizes, as well as take into account performance and accessibility.
+
+While it is not necessary to know everything front end to get a job, there is certainly a lot you do have to know.  So below, I am going to do my best to point you in the best direction. So hopefully, if you stick with it, you'll have a pretty sweet resume and portfolio full of sweet skills and projects to show off to the world, and most likely get your foot in the door of what in my opinion is one the most fulfilling careers out there.
+
 
 ### Getting your feet wet
 
@@ -195,6 +202,10 @@ coming soon...
 coming soon...
 
 #### Testing
+
+coming soon...
+
+#### Linting
 
 coming soon...
 
