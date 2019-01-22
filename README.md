@@ -26,8 +26,8 @@ Aside from links, this guide also has some projects for you to do. You are not l
 
 Once you make it through the javascript section, I recommend that you head to these links and do at least one challenge a day. It will dramatically help with your critical thinking and interview skills.
 
-- hackerrank.com
-- codewars.com
+- https://hackerrank.com
+- https://codewars.com
 
 # Table of Contents
 
