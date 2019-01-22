@@ -24,7 +24,7 @@ Aside from links, this guide also has some projects for you to do. You are not l
 
 ## Challenge Yourself
 
-Once you make it through the javascript section, I recommend that you head to these links and do at least one challenge a day. It will dramatically help with your critical thinking and interview skills.
+Once you make it through the Javascript section, I recommend that you head to these links and do at least one challenge a day. It will dramatically help with your critical thinking and interview skills.
 
 - https://hackerrank.com
 - https://codewars.com
@@ -33,10 +33,10 @@ Once you make it through the javascript section, I recommend that you head to th
 
 - [Front End](#front-end)
   - [Getting your feet wet](#getting-your-feet-wet)
-    - [HTML & CSS Basics](#html-css-basics)
+    - [HTML & CSS Basics](#html--css-basics)
     - [First Project](#first-project)
   - [Having Fun Yet?](#having-fun-yet)
-    - [Intermediate HTML & CSS](#intermediate-html-css)
+    - [Intermediate HTML & CSS](#intermediate-html--css)
     - [Bootstrap](#bootstrap)
     - [Second Project](#second-project)
     - [Git](#git)
