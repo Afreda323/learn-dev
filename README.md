@@ -87,7 +87,7 @@ While it is not necessary to know everything front end to get a job, there is ce
 
 It's time to see if this is really something you want to do.
 
-#### HTML & CSS Basics
+### HTML & CSS Basics
 
 HTML and CSS are the building blocks of the web. HTML is how you define all of the text, images, links, etc on the page. CSS is how you make it all look good and accessible to the user.
 
@@ -115,7 +115,7 @@ There may be some overlap between the videos, but repetition is good for learnin
 - [Get Better at CSS](https://medium.freecodecamp.org/how-to-get-better-at-writing-css-a1732c32a72f)
 - [CSS Tricks](https://css-tricks.com/)
 
-#### First Project
+### First Project
 
 It's time to put your new skills to the test, find one of your favorite websites on the internet, and do your best to clone it with HTML and CSS. I would recommend starting with something simple, but if that's too easy, feel free to find something more comlex and clone that too.
 
@@ -132,7 +132,7 @@ Now that you have at least one custom built website under your belt, you can mov
 
 It is also a good time to learn git so that you can push your code to the internet and share it with the world.
 
-#### Intermediate HTML & CSS
+### Intermediate HTML & CSS
 
 Previously, you only scratched the surface when it comes to the languages of the web. You will now learn about a bunch more HTML tags, as well as some advanced layout and positioning techniques with CSS including Flexbox and the brand new CSS-Grid.
 
@@ -151,7 +151,7 @@ The below links will take your skills to the next level.
 - [Complete Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Complete Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
-#### Bootstrap
+### Bootstrap
 
 When first released, bootstrap was one of the biggest things to hit the internet. It streamlined a lot of tedious styling tasks, as well as made a bunch of sites on the internet look pretty damn good. Some of these sites inlcude Lyft, TurboTax and Spotify.
 
@@ -163,7 +163,7 @@ Learning Bootstrap is completely optional, if you opt in to learning it. Try and
 
 - [Bootstrap Crash Course](https://www.youtube.com/watch?v=hnCmSXCZEpU)
 
-#### Second Project
+### Second Project
 
 It's time for some challenges. Head over to [Front End Mentor](https://frontendmentor.io) and browse the challenges. Complete at least two of the beginner challenges, and if you feel brave, do at least one intermediate challenge. Once you do this, you should feel pretty comfortable about where you stand with HTML and CSS.
 
@@ -172,7 +172,7 @@ It's time for some challenges. Head over to [Front End Mentor](https://frontendm
 - https://frontendmentor.io
 - https://frontendmentor.io/challenges
 
-#### Git
+### Git
 
 Git is an open source version control system that makes working with others a breeze, it is a foundational part of day to day development and is a must to know if you want to get into the field. It is super fast and easy to use.
 
@@ -190,7 +190,7 @@ Once you're comfortable with git, psuh all of your completed projects to GitHub.
 
 - [Become a Git Expert](https://medium.freecodecamp.org/how-to-become-a-git-expert-e7c38bf54826)
 
-#### Portfolio Website
+### Portfolio Website
 
 Feel like a pro yet? If so, it's time to build yourself a portfolio website. When doing this, be sure to have at least the following pages:
 
@@ -205,7 +205,7 @@ Feel like a pro yet? If so, it's time to build yourself a portfolio website. Whe
 - https://chippd.github.io/
 - https://www.ybrikman.com/
 
-#### Deploying your sites
+### Deploying your sites
 
 Having some HTML and CSS sitting on your computer/GitHub is cool and all, but it would be a lot better to actually have something live on the internet. Below is several tutorials for the different flavors of pushing your sites to a live server or CDN.
 
@@ -225,33 +225,33 @@ Ordered from easiest - hardest
 
 coming soon...
 
-#### On to Javascript
+### On to Javascript
 
 coming soon...
 
-#### More Javascript
+### More Javascript
 
 coming soon...
 
-#### Third Project
+### Third Project
 
 coming soon...
 
 ## Tools of the Trade
 
-#### Sass
+### Sass
 
 coming soon...
 
-#### npm
+### npm
 
 coming soon...
 
-#### Webpack
+### Webpack
 
 coming soon...
 
-#### Devtools
+### Devtools
 
 coming soon...(eslint, markdown, prettier, etc)
 
@@ -259,31 +259,31 @@ coming soon...(eslint, markdown, prettier, etc)
 
 coming soon...
 
-#### Basic and Intermediate React
+### Basic and Intermediate React
 
 coming soon...
 
-#### Fourth Project
+### Fourth Project
 
 coming soon...
 
-#### React Tools
+### React Tools
 
 coming soon...
 
-#### Advanced React
+### Advanced React
 
 coming soon...
 
-#### Fifth Project
+### Fifth Project
 
 coming soon...
 
-#### Full Stack Development with React
+### Full Stack Development with React
 
 coming soon...
 
-#### Final Front End Project
+### Final Front End Project
 
 coming soon...
 
@@ -291,19 +291,19 @@ coming soon...
 
 coming soon...
 
-#### Data Structures and Algorithms
+### Data Structures and Algorithms
 
 coming soon...
 
-#### Interview Prep
+### Interview Prep
 
 coming soon...
 
-#### Writing a Resume
+### Writing a Resume
 
 coming soon...
 
-#### Applying for jobs
+### Applying for jobs
 
 coming soon...
 
@@ -311,27 +311,27 @@ coming soon...
 
 coming soon...
 
-#### Computer Science
+### Computer Science
 
 coming soon...
 
-#### Testing
+### Testing
 
 coming soon...
 
-#### Linting
+### Linting
 
 coming soon...
 
-#### Mobile Apps with React Native
+### Mobile Apps with React Native
 
 coming soon...
 
-#### Gatsby
+### Gatsby
 
 coming soon...
 
-#### TypeScript
+### TypeScript
 
 coming soon...
 
