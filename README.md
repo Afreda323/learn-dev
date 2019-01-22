@@ -182,12 +182,13 @@ Once you're comfortable with git, psuh all of your completed projects to GitHub.
 
 ##### Courses
 
-- Treehouse
-- udemy
+- [Interactive Tutorials by GitHub](https://try.github.io/)
+- [Git & Github Crash Course](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [Githib for Beginners](https://www.youtube.com/watch?v=mVnZVw4KJnc)
 
 ##### Other Resources
 
-- blog post
+- [Become a Git Expert](https://medium.freecodecamp.org/how-to-become-a-git-expert-e7c38bf54826)
 
 #### Portfolio Website
 
@@ -199,15 +200,26 @@ Feel like a pro yet? If so, it's time to build yourself a portfolio website. Whe
 
 ##### Inspiration
 
-- Links
+- https://ianlunn.co.uk/
+- http://findmatthew.com/
+- https://chippd.github.io/
+- https://www.ybrikman.com/
 
 #### Deploying your sites
 
 Having some HTML and CSS sitting on your computer/GitHub is cool and all, but it would be a lot better to actually have something live on the internet. Below is several tutorials for the different flavors of pushing your sites to a live server or CDN.
 
+Ordered from easiest - hardest
+
 ##### Resources
 
-- blog post
+- [Deploy with Netlify](https://www.youtube.com/watch?v=bjVUqvcCnxM)
+- [Deploy with GitHub Pages](https://www.youtube.com/watch?v=BA_c3bGQXlQ)
+- [Deploy with FTP](https://www.youtube.com/watch?v=UN7S4zd8h-k)
+
+##### Links
+- https://pages.github.com/
+- https://www.netlify.com/
 
 ## Let's do some programming
 
