@@ -71,7 +71,7 @@ While it is not necessary to know everything front end to get a job, there is ce
 
 coming soon...
 
-#### Intro to Web Development
+<!-- #### Intro to Web Development
 
 coming soon...
 
@@ -227,4 +227,4 @@ coming soon...
 
 ## Other Things to Keep Up With
 
-coming soon...
+coming soon... -->
