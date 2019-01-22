@@ -6,6 +6,8 @@ Below is a list of things you would typically need to know to get employed as a 
 
 If I have missed anything, or am lacking in the resources department, feel free to hit me with a PR and I'd be happy to add it to the list.
 
+Also please note that some of the resources lifted are part of paid services.  I'm trying to keep this as low cost as possible, but I can't help that some of the best resources cost some money.
+
 ## Why?
 
 While there are plenty of resources online for learning the tools of the trade, it can be a little hard for someone new to the game to find what they need, especially when most of the time they aren't sure exactly what "it" is.
@@ -74,9 +76,24 @@ It's time to see if this is really something you want to do.
 
 HTML and CSS are the building blocks of the web.  HTML is how you define all of the text, images, links, etc on the page.  CSS is how you make it all look good and accessible to the user.
 
+##### Courses
+
+- Treehouse
+- udemy
+
+##### Other Resources
+
+- blog post
+
 #### First Project
 
-coming soon...
+It's time to put your new skills to the test, find one of your favorite websites on the internet, and do your best to clone it with HTML and CSS.  I would recommend starting with something simple like google.com, but if that's too easy, feel free to find something more comlex.
+
+If you find yourself stuck, feel free to google how to do things, it's good to get into this habit as early on as possible.
+
+##### Ideas
+
+- https://google.com
 
 ### Still here?
 
@@ -86,23 +103,67 @@ It is also a good time to learn git so that you can push your code to the intern
 
 #### Intermediate HTML & CSS
 
-coming soon...
+Previously, you only scratched the surface when it comes to the languages of the web.  The below links will take your skills to the next level.
+
+##### Courses
+
+- Treehouse
+- udemy
+
+##### Other Resources
+
+- blog post
 
 #### Bootstrap
 
-coming soon...
+When first released, bootstrap was one of the biggest things to hit the internet.  It streamlined a lot of tedious styling tasks, as well as made a bunch of sites on the internet look pretty damn good.  Some of these sites inlcude Lyft, TurboTax and Spotify.
+
+##### Courses
+
+- Treehouse
+- udemy
+
+##### Other Resources
+
+- blog post
 
 #### Second Project
 
-coming soon...
+Feel like a pro yet? If so, it's time to build yourself a portfolio website.  When doing this, be sure to have at least the following pages:
+
+- About (Talk about yourself)
+- Work (Explain the projects you have previously done)
+- Contact (Social links and how to get a hold of you)
+
+##### Inspiration
+
+- Links
 
 #### Git
 
-coming soon...
+Git is an open source version control system that makes working with others a breeze, it is a foundational part of day to day development and is a must to know if you want to gewt into the field.  GitHub is a place to host your code and share it with others.
+
+##### Courses
+
+- Treehouse
+- udemy
+
+##### Other Resources
+
+- blog post
 
 #### Deploying your sites
 
-coming soon...
+Having some HTML and CSS sitting on your computer/GitHub is cool and all, but it would be a lot better to actually have something live on the internet.  Below is several tutorials for the different flavors of pushing your sites to a live server or CDN.
+
+##### Courses
+
+- Treehouse
+- udemy
+
+##### Other Resources
+
+- blog post
 
 ### Let's do some programming
 
