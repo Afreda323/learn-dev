@@ -107,6 +107,7 @@ There may be some overlap between the videos, but repetition is good for learnin
   - [HTML Part Two](https://www.youtube.com/watch?v=PypMN-yui4Y)
   - [ HTML Part Three](https://www.youtube.com/watch?v=1rbo_HHt5nw)
   - [CSS](https://www.youtube.com/watch?v=1PnVor36_40)
+- [Build a Responsive Website](https://www.youtube.com/watch?v=Wm6CUkswsNw)
 
 ##### Other Resources
 
@@ -122,7 +123,8 @@ If you find yourself stuck, feel free to look up how to do things, it's good to 
 
 ##### Ideas
 
-- https://google.com
+- [Google Home Page](https://google.com)
+- [Twitter Home Page](https://twitter.com/)
 
 ## Having Fun Yet?
 
@@ -138,25 +140,28 @@ The below links will take your skills to the next level.
 
 ##### Courses
 
-- Treehouse
-- udemy
+- [CSS Complete Guide(Covers it all)](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/)
+- [Learn Flexbox](https://www.youtube.com/watch?v=JJSoEo8JSnc)
+- [Flexbox Froggy Game](https://flexboxfroggy.com/)
+- [Flexbox Defense Game](http://www.flexboxdefense.com/)
+- [Build an animated accordion](https://www.youtube.com/watch?v=4M6qPoFWIxI)
 
 ##### Other Resources
 
-- blog post
+- [Complete Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Complete Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 #### Bootstrap
 
 When first released, bootstrap was one of the biggest things to hit the internet. It streamlined a lot of tedious styling tasks, as well as made a bunch of sites on the internet look pretty damn good. Some of these sites inlcude Lyft, TurboTax and Spotify.
 
+Learning Bootstrap is completely optional, if you opt in to learning it. Try and understand what it is doing, and use it sparingly.
+
+[Bootstrap Website](https://getbootstrap.com/)
+
 ##### Courses
 
-- Treehouse
-- udemy
-
-##### Other Resources
-
-- blog post
+- [Bootstrap Crash Course](https://www.youtube.com/watch?v=hnCmSXCZEpU)
 
 #### Second Project
 
