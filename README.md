@@ -6,7 +6,7 @@ Below is a list of things you would typically need to know to get employed as a 
 
 If I have missed anything, or am lacking in the resources department, feel free to hit me with a PR and I'd be happy to add it to the list.
 
-Also please note that some of the resources lifted are part of paid services.  I'm trying to keep this as low cost as possible, but I can't help that some of the best resources cost some money.
+Also please note that some of the resources lifted are part of paid services.  I'm trying to keep this as low cost as possible, but I can't help that some of the best resources cost some money.  TeamTreehouse has a 7 day free trial and costs \$25 a month and you can usually score Udemy courses for under \$20.
 
 ## Why?
 
@@ -16,28 +16,32 @@ It can also be a little difficult for beginners to find things that are up to da
 
 ## Getting Started
 
+To write some code, you're going to need an editor.  Head on over to https://code.visualstudio.com and download and install the latest release.  Open and mess around with it for a little while, once comfortable move on with the guide.  You're ready to write some code.
+
 Every section of this guide has a set of links to tutorials as well as a list of other resources that I find will help as a supplement to the guides.
 
 Aside from links, this guide also has some projects for you to do.  You are not limited to these, so if you want to build your own stuff in the process, feel free.  The more you make the better you will get.
 
-Once you make it through the javascript section, I recommend that you head to these links and do at least one challenge a day.  It will dramatically help with your critical thinking and interview skills.
 
-##### Challenge Sites
+## Challenge Yourself
+
+Once you make it through the javascript section, I recommend that you head to these links and do at least one challenge a day.  It will dramatically help with your critical thinking and interview skills.
 
 - hackerrank.com
 - codewars.com
 
-## Table of Contents
+# Table of Contents
 
 - [Front End](#front-end)
   - [Getting your feet wet](#getting-your-feet-wet)
     - [HTML & CSS Basics](#html-css-basics)
     - [First Project](#first-project)
-  - [Still here?](#still-here)
+  - [Having Fun Yet?](#having-fun-yet)
     - [Intermediate HTML & CSS](#intermediate-html-css)
     - [Bootstrap](#bootstrap)
     - [Second Project](#second-project)
     - [Git](#git)
+    - [Portfolio Website](#portfolio-website)
     - [Deploying your sites](#deploying-your-sites)
   - [Let's do some programming](#lets-do-some-programming)
     - [On to Javascript](#on-to-javascript)
@@ -71,7 +75,7 @@ Once you make it through the javascript section, I recommend that you head to th
 - [Back End](#back-end)
 - [Other things to Keep Up With](#other-things-to-keep-up-with)
 
-## Front End
+# Front End
 
 > Front-end web development is the practice of converting data to graphical interface for user to view and interact with data through digital interaction using HTML, CSS and JavaScript. 
 [Wikipedia](https://en.wikipedia.org/wiki/Front-end_web_development)
@@ -81,7 +85,7 @@ Front end development has blown up into a very complex field in recent years.  W
 While it is not necessary to know everything front end to get a job, there is certainly a lot you do have to know.  So below, I am going to do my best to point you in the best direction. So hopefully, if you stick with it, you'll have a pretty sweet resume and portfolio full of sweet skills and projects to show off to the world, and most likely get your foot in the door of what in my opinion is one the most fulfilling careers out there.
 
 
-### Getting your feet wet
+## Getting your feet wet
 
 It's time to see if this is really something you want to do.
 
@@ -102,23 +106,25 @@ HTML and CSS are the building blocks of the web.  HTML is how you define all of 
 
 #### First Project
 
-It's time to put your new skills to the test, find one of your favorite websites on the internet, and do your best to clone it with HTML and CSS.  I would recommend starting with something simple like google.com, but if that's too easy, feel free to find something more comlex.
+It's time to put your new skills to the test, find one of your favorite websites on the internet, and do your best to clone it with HTML and CSS.  I would recommend starting with something simple, but if that's too easy, feel free to find something more comlex and clone that too.
 
-If you find yourself stuck, feel free to google how to do things, it's good to get into this habit as early on as possible.
+If you find yourself stuck, feel free to look up how to do things, it's good to get into this habit as early on as possible.
 
 ##### Ideas
 
 - https://google.com
 
-### Still here?
+## Having Fun Yet?
 
-Now that you have at least one custm built website under your belt, you can move onto the more exciting things, like learning your first CSS framework as well as how to lay out more advanced pages.  
+Now that you have at least one custom built website under your belt, you can move onto the more exciting things, like learning your first CSS framework as well as how to lay out more advanced pages.  
 
 It is also a good time to learn git so that you can push your code to the internet and share it with the world.
 
 #### Intermediate HTML & CSS
 
-Previously, you only scratched the surface when it comes to the languages of the web.  The below links will take your skills to the next level.
+Previously, you only scratched the surface when it comes to the languages of the web. You will now learn about a bunch more HTML tags, as well as some advanced layout and positioning techniques with CSS including Flexbox and the brand new CSS-Grid. 
+
+The below links will take your skills to the next level.
 
 ##### Courses
 
@@ -144,21 +150,20 @@ When first released, bootstrap was one of the biggest things to hit the internet
 
 #### Second Project
 
-Feel like a pro yet? If so, it's time to build yourself a portfolio website.  When doing this, be sure to have at least the following pages:
+It's time for some challenges.  Head over to [Front End Mentor](https://frontendmentor.io) and browse the challenges.  Complete at least two of the beginner challenges, and if you feel brave, do at least one intermediate challenge.  Once you do this, you should feel pretty comfortable about where you stand with HTML and CSS.
 
-- About (Talk about yourself)
-- Work (Explain the projects you have previously done)
-- Contact (Social links and how to get a hold of you)
+##### Links
 
-##### Inspiration
-
-- Links
+- https://frontendmentor.io
+- https://frontendmentor.io/challenges
 
 #### Git
 
 Git is an open source version control system that makes working with others a breeze, it is a foundational part of day to day development and is a must to know if you want to get into the field.  It is super fast and easy to use. 
 
 GitHub is a place to host your code and share it with others.  As well as contribute to other people's code.
+
+Once you're comfortable with git, psuh all of your completed projects to GitHub.
 
 ##### Courses
 
@@ -169,6 +174,18 @@ GitHub is a place to host your code and share it with others.  As well as contri
 
 - blog post
 
+#### Portfolio Website
+
+Feel like a pro yet? If so, it's time to build yourself a portfolio website.  When doing this, be sure to have at least the following pages:
+
+- About (Talk about yourself)
+- Work (Explain the projects you have previously done)
+- Contact (Social links and how to get a hold of you)
+
+##### Inspiration
+
+- Links
+
 #### Deploying your sites
 
 Having some HTML and CSS sitting on your computer/GitHub is cool and all, but it would be a lot better to actually have something live on the internet.  Below is several tutorials for the different flavors of pushing your sites to a live server or CDN.
@@ -177,11 +194,11 @@ Having some HTML and CSS sitting on your computer/GitHub is cool and all, but it
 
 - blog post
 
-### Let's do some programming
+## Let's do some programming
 
 coming soon...
 
-<!-- #### On to Javascript
+#### On to Javascript
 
 coming soon...
 
@@ -193,7 +210,7 @@ coming soon...
 
 coming soon...
 
-### Tools of the Trade
+## Tools of the Trade
 
 #### Sass
 
@@ -211,7 +228,7 @@ coming soon...
 
 coming soon...
 
-### React
+## React
 
 coming soon...
 
@@ -243,7 +260,7 @@ coming soon...
 
 coming soon...
 
-### Getting Job Ready
+## Getting Job Ready
 
 coming soon...
 
@@ -263,7 +280,7 @@ coming soon...
 
 coming soon...
 
-### Going Deeper
+## Going Deeper
 
 coming soon...
 
@@ -291,10 +308,10 @@ coming soon...
 
 coming soon...
 
-## Back End
+# Back End
 
 coming soon...
 
-## Other Things to Keep Up With
+# Other Things to Keep Up With
 
 coming soon... --> 
