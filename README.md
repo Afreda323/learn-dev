@@ -268,11 +268,26 @@ You should be getting pretty good at this by now. For your next project, youre g
 
 ## React
 
-Now that youre a Javascript pro, it's time to start digging into some UI dev libraries.
+Now that youre a Javascript pro, it's time to start digging into some UI dev libraries. 
+
+> In computing, React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
+> [Wikipedia](https://en.wikipedia.org/wiki/React_(JavaScript_library))
+
+From this point forward, you will be learning the ins and outs of [React](https://reactjs.org/), as well as it's many tools.  It streamlines alot of the development process, and allows you to make a component based architecture allowing for good performace and code reusability.
 
 ### Basic and Intermediate React
 
-coming soon...
+The following course covers just about everything you would need to become a React developer. It starts at the basics and then moves on to using tools like [Redux](https://redux.js.org/), as well as a bunch of cutting edge React features like hooks.
+
+##### Courses
+
+- [Modern React/Redux](https://www.udemy.com/react-redux/)
+
+##### Other Resources
+
+- [React Docs](https://reactjs.org/)
+- [Redux Docs](https://redux.js.org/)
+- [Create React App](https://javascript.info/)
 
 ### Fourth Project
 
