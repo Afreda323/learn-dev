@@ -46,11 +46,6 @@ Once you make it through the Javascript section, I recommend that you head to th
     - [On to Javascript](#on-to-javascript)
     - [More Javascript](#more-javascript)
     - [Third Project](#third-project)
-  - [Tools of the Trade](#tools-of-the-trade)
-    - [Sass](#sass)
-    - [npm](#npm)
-    - [Webpack](#webpack)
-    - [Devtools](#devtools)
   - [React](#react)
     - [Basic and Intermediate React](#basic-and-intermediate-react)
     - [Fourth Project](#fourth-project)
@@ -134,7 +129,7 @@ It is also a good time to learn git so that you can push your code to the intern
 
 ### Intermediate HTML & CSS
 
-Previously, you only scratched the surface when it comes to the languages of the web. You will now learn about a bunch more HTML tags, as well as some advanced layout and positioning techniques with CSS including Flexbox and the brand new CSS-Grid.
+Previously, you only scratched the surface when it comes to the languages of the web. You will now learn about a bunch more HTML tags, as well as some advanced layout and positioning techniques with CSS including Flexbox and the brand new CSS-Grid.  It also includes the usage of CSS preprocessors like Sass.
 
 The below links will take your skills to the next level.
 
@@ -236,6 +231,8 @@ Now that you know what it is, it is time to learn how all of this is done.
 
 As previously mentioned, JavaScript has many flavors and can do many things.  But the best way to learn it is by learning the basics in the browser.  The below course is in my opinion one of the best out there for familiarizing yourself with the language, as well as how to make things happen in a web app.
 
+There is a lot of content here, from Javascript to package managers(npm) to even build automation tools like Webpack.
+
 ##### Courses
 
 - Udemy course
@@ -247,7 +244,7 @@ As previously mentioned, JavaScript has many flavors and can do many things.  Bu
 
 ### More Javascript
 
-At this point, you should have a pretty solid understanding of the Javascript programming language.  You can make stuff interactive, as well as write some clean code.  To cement this knowledge, I recommend doing a couple of coding challenges to really cement this new knowledge into your brain.  Do about 4-5 of them, and then continue to do about one a day until the end of this guide.
+At this point, you should have a pretty solid understanding of the Javascript programming language.  You can make stuff interactive, as well as write some clean code.  To cement this knowledge, I recommend doing a couple of coding challenges to really cement this new knowledge into your brain.  Do about one a day until the end of this guide.
 
 ##### Challenges
 
@@ -255,25 +252,13 @@ At this point, you should have a pretty solid understanding of the Javascript pr
 
 ### Third Project
 
-coming soon...
+You should be getting pretty good at this by now.  For your next project, youre going to find an API of your choice, and write a web application that interacts with it.  This can be anything, but below I have listed a few APIs and ideas.  Try and set up your own Webpack config for this and use Babel.
 
-## Tools of the Trade
+##### Ideas
 
-### Sass
-
-coming soon...
-
-### npm
-
-coming soon...
-
-### Webpack
-
-coming soon...
-
-### Devtools
-
-coming soon...(eslint, markdown, prettier, etc)
+- Weather App
+- Reddit client
+- Pokedex
 
 ## React
 
