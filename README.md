@@ -58,6 +58,7 @@ Once you make it through the Javascript section, I recommend that you head to th
     - [Data Structures and Algorithms](#data-structures-and-algorithms)
     - [Interview Prep](#interview-prep)
     - [Writing a Resume](#writing-a-resume)
+    - [Portfolio Number Two](#portfolio-number-two)
     - [Applying for jobs](#applying-for-jobs)
   - [Going Deeper](#going-deeper)
     - [Computer Science](#computer-science)
@@ -246,9 +247,10 @@ There is a lot of content here, from Javascript to package managers(npm) to even
 
 At this point, you should have a pretty solid understanding of the Javascript programming language.  You can make stuff interactive, as well as write some clean code.  To cement this knowledge, I recommend doing a couple of coding challenges to really cement this new knowledge into your brain.  Do about one a day until the end of this guide.
 
-##### Challenges
+##### Challenge Sites
 
-- Udemy course
+- https://hackerrank.com
+- https://codewars.com
 
 ### Third Project
 
@@ -305,6 +307,10 @@ coming soon...
 coming soon...
 
 ### Writing a Resume
+
+coming soon...
+
+### Portfolio Number Two
 
 coming soon...
 
