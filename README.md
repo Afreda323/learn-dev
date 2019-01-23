@@ -221,7 +221,8 @@ Ordered from easiest - hardest
 
 ## Let's do some programming
 
-
+> JavaScript, often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. It is a language that is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm.
+> [Wikipedia](https://en.wikipedia.org/wiki/JavaScript)
 
 Now that you've learned how to properly lay things out in a static web page, it's time to make things interactive. To do this, you will have to learn Javascript. Javascript is a programming language, and is the only language that is executable in the browser. Some find it very easy to learn, but if this is your first programming language, the next few sections are going to be a challenge.
 
