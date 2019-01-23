@@ -6,7 +6,7 @@ Below is a list of things you would typically need to know to get employed as a 
 
 If I have missed anything, or am lacking in the resources department, feel free to hit me with a PR and I'd be happy to add it to the list.
 
-Also please note that some of the resources lifted are part of paid services. I'm trying to keep this as low cost as possible, but I can't help that some of the best resources cost some money. TeamTreehouse has a 7 day free trial and costs \$25 a month and you can usually score Udemy courses for under \$20.
+Also please note that some of the resources listed are part of paid services. I'm trying to keep this as low cost as possible, but I can't help that some of the best resources cost some money. you can usually score Udemy courses for under \$20.
 
 ## Why?
 
@@ -61,6 +61,7 @@ Once you make it through the Javascript section, I recommend that you head to th
     - [Portfolio Number Two](#portfolio-number-two)
     - [Applying for jobs](#applying-for-jobs)
   - [Going Deeper](#going-deeper)
+    - [Frontend Masters](#frontend-master)
     - [Computer Science](#computer-science)
     - [Linting](#linting)
     - [Testing](#testing)
@@ -130,7 +131,7 @@ It is also a good time to learn git so that you can push your code to the intern
 
 ### Intermediate HTML & CSS
 
-Previously, you only scratched the surface when it comes to the languages of the web. You will now learn about a bunch more HTML tags, as well as some advanced layout and positioning techniques with CSS including Flexbox and the brand new CSS-Grid.  It also includes the usage of CSS preprocessors like Sass.
+Previously, you only scratched the surface when it comes to the languages of the web. You will now learn about a bunch more HTML tags, as well as some advanced layout and positioning techniques with CSS including Flexbox and the brand new CSS-Grid. It also includes the usage of CSS preprocessors like Sass.
 
 The below links will take your skills to the next level.
 
@@ -220,32 +221,34 @@ Ordered from easiest - hardest
 
 ## Let's do some programming
 
-Now that you've learned how to properly lay things out in a static web page, it's time to make things interactive.  To do this, you will have to learn Javascript.  Javascript is a programming language, and is the only language that is executable in the browser.  Some find it very easy to learn, but if this is your first programming language, the next few sections are going to be a challenge.
 
-Javascript has a great community behind it which has allowed for it to blow up into one of the most versatile languages out there.  It can be used to make native mobile apps, web applications, desktop applications and backend services.
 
-To get a feel of what it is capable, head over to a web application like https://youtube.com and click around.  Just about every interaction you have with the site is handled with Javascript, whether thats streaming a videa, or subscribing to a creator.  Cool right? 
+Now that you've learned how to properly lay things out in a static web page, it's time to make things interactive. To do this, you will have to learn Javascript. Javascript is a programming language, and is the only language that is executable in the browser. Some find it very easy to learn, but if this is your first programming language, the next few sections are going to be a challenge.
+
+Javascript has a great community behind it which has allowed for it to blow up into one of the most versatile languages out there. It can be used to make native mobile apps, web applications, desktop applications and backend services.
+
+To get a feel of what it is capable, head over to a web application like https://youtube.com and click around. Just about every interaction you have with the site is handled with Javascript, whether thats streaming a videa, or subscribing to a creator. Cool right?
 
 Now that you know what it is, it is time to learn how all of this is done.
 
 ### On to Javascript
 
-As previously mentioned, JavaScript has many flavors and can do many things.  But the best way to learn it is by learning the basics in the browser.  The below course is in my opinion one of the best out there for familiarizing yourself with the language, as well as how to make things happen in a web app.
+As previously mentioned, JavaScript has many flavors and can do many things. But the best way to learn it is by learning the basics in the browser. The below course is in my opinion one of the best out there for familiarizing yourself with the language, as well as how to make things happen in a web app.
 
-There is a lot of content here, from Javascript to package managers(npm) to even build automation tools like Webpack.
+There is a lot of content here, from Javascript to package managers([npm](https://www.npmjs.com/)) to even build automation tools like [Webpack](https://webpack.js.org/).
 
 ##### Courses
 
-- Udemy course
+- [Javascript Complete Guide](https://www.udemy.com/modern-javascript/)
 
 ##### Other Resources
 
-- link 1
-- link 2
+- [You Dont Know Javascript](https://github.com/getify/You-Dont-Know-JS)
+- [Modern Javascript Tutorial](https://javascript.info/)
 
 ### More Javascript
 
-At this point, you should have a pretty solid understanding of the Javascript programming language.  You can make stuff interactive, as well as write some clean code.  To cement this knowledge, I recommend doing a couple of coding challenges to really cement this new knowledge into your brain.  Do about one a day until the end of this guide.
+At this point, you should have a pretty solid understanding of the Javascript programming language. You can make stuff interactive, as well as write some clean code. To cement this knowledge, I recommend doing a couple of coding challenges to really cement this new knowledge into your brain. Do about one a day until the end of this guide.
 
 ##### Challenge Sites
 
@@ -254,17 +257,17 @@ At this point, you should have a pretty solid understanding of the Javascript pr
 
 ### Third Project
 
-You should be getting pretty good at this by now.  For your next project, youre going to find an API of your choice, and write a web application that interacts with it.  This can be anything, but below I have listed a few APIs and ideas.  Try and set up your own Webpack config for this and use Babel.
+You should be getting pretty good at this by now. For your next project, youre going to find an API of your choice, and write a web application that interacts with it. This can be anything, but below I have listed a few APIs and ideas. Try and set up your own Webpack config for this and use Babel.
 
 ##### Ideas
 
-- Weather App
-- Reddit client
-- Pokedex
+- [Weather App](https://darksky.net/dev)
+- [Reddit client](https://www.reddit.com/dev/api/)
+- [Pokedex](https://pokeapi.co/)
 
 ## React
 
-coming soon...
+Now that youre a Javascript pro, it's time to start digging into some UI dev libraries.
 
 ### Basic and Intermediate React
 
@@ -319,6 +322,10 @@ coming soon...
 coming soon...
 
 ## Going Deeper
+
+coming soon...
+
+### Frontend Masters
 
 coming soon...
 
