@@ -268,12 +268,12 @@ You should be getting pretty good at this by now. For your next project, youre g
 
 ## React
 
-Now that youre a Javascript pro, it's time to start digging into some UI dev libraries. 
+Now that youre a Javascript pro, it's time to start digging into some UI dev libraries.
 
 > In computing, React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
-> [Wikipedia](https://en.wikipedia.org/wiki/React_(JavaScript_library))
+> [Wikipedia](<https://en.wikipedia.org/wiki/React_(JavaScript_library)>)
 
-From this point forward, you will be learning the ins and outs of [React](https://reactjs.org/), as well as it's many tools.  It streamlines alot of the development process, and allows you to make a component based architecture allowing for good performace and code reusability.
+From this point forward, you will be learning the ins and outs of [React](https://reactjs.org/), as well as it's many tools. It streamlines alot of the development process, and allows you to make a component based architecture allowing for good performace and code reusability.
 
 ### Basic and Intermediate React
 
@@ -289,11 +289,22 @@ The following course covers just about everything you would need to become a Rea
 - [Redux Docs](https://redux.js.org/)
 - [Create React App](https://javascript.info/)
 
-### Fourth Project
-
-coming soon...
-
 ### React Tools
+
+Here are some tools that should help you with react development.
+
+- Styling
+  - [How to Style React](https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822)
+  - [Styled Components](https://www.styled-components.com/)
+  - [Emotion](https://emotion.sh/)
+- Animation
+  - [React Spring](http://react-spring.surge.sh/)
+- Component Libraries
+  - [Material UI](https://material-ui.com/)
+  - [Ant Design](https://ant.design/docs/react/introduce)
+- [A Whole Lot More](https://github.com/enaqx/awesome-react)
+
+### Fourth Project
 
 coming soon...
 
