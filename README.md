@@ -218,20 +218,40 @@ Ordered from easiest - hardest
 - [Deploy with FTP](https://www.youtube.com/watch?v=UN7S4zd8h-k)
 
 ##### Links
+
 - https://pages.github.com/
 - https://www.netlify.com/
 
 ## Let's do some programming
 
-coming soon...
+Now that you've learned how to properly lay things out in a static web page, it's time to make things interactive.  To do this, you will have to learn Javascript.  Javascript is a programming language, and is the only language that is executable in the browser.  Some find it very easy to learn, but if this is your first programming language, the next few sections are going to be a challenge.
+
+Javascript has a great community behind it which has allowed for it to blow up into one of the most versatile languages out there.  It can be used to make native mobile apps, web applications, desktop applications and backend services.
+
+To get a feel of what it is capable, head over to a web application like https://youtube.com and click around.  Just about every interaction you have with the site is handled with Javascript, whether thats streaming a videa, or subscribing to a creator.  Cool right? 
+
+Now that you know what it is, it is time to learn how all of this is done.
 
 ### On to Javascript
 
-coming soon...
+As previously mentioned, JavaScript has many flavors and can do many things.  But the best way to learn it is by learning the basics in the browser.  The below course is in my opinion one of the best out there for familiarizing yourself with the language, as well as how to make things happen in a web app.
+
+##### Courses
+
+- Udemy course
+
+##### Other Resources
+
+- link 1
+- link 2
 
 ### More Javascript
 
-coming soon...
+At this point, you should have a pretty solid understanding of the Javascript programming language.  You can make stuff interactive, as well as write some clean code.  To cement this knowledge, I recommend doing a couple of coding challenges to really cement this new knowledge into your brain.  Do about 4-5 of them, and then continue to do about one a day until the end of this guide.
+
+##### Challenges
+
+- Udemy course
 
 ### Third Project
 
