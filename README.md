@@ -61,7 +61,6 @@ Once you make it through the Javascript section, I recommend that you head to th
     - [Applying for jobs](#applying-for-jobs)
   - [Going Deeper](#going-deeper)
     - [Frontend Masters](#frontend-master)
-    - [Computer Science](#computer-science)
     - [Linting](#linting)
     - [Testing](#testing)
     - [Mobile Apps with React Native](#mobile-apps-with-react-native)
@@ -361,10 +360,6 @@ coming soon...
 coming soon...
 
 ### Frontend Masters
-
-coming soon...
-
-### Computer Science
 
 coming soon...
 
