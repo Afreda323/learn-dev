@@ -345,7 +345,12 @@ coming soon...
 
 ### Portfolio Number Two
 
-coming soon...
+Use everything you have learned and build yourself a new portfolio website to show off your skills. Be sure to fill the same requirements as last time, as well as add some new features.
+
+##### Inspiration
+  - http://findmatthew.com/
+  - http://rayps.com/
+  - http://cihadturhan.com/
 
 ### Applying for jobs
 
