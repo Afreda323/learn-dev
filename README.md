@@ -51,7 +51,6 @@ Once you make it through the Javascript section, I recommend that you head to th
     - [Fourth Project](#fourth-project)
     - [React Tools](#react-tools)
     - [Advanced React](#advanced-react)
-    - [Fifth Project](#fifth-project)
     - [Full Stack Development with React](#full-stack-development-with-react)
     - [Final Front End Project](#final-front-end-project)
   - [Getting Job Ready](#getting-job-ready)
@@ -306,7 +305,11 @@ Here are some tools that should help you with react development.
 
 ### Fourth Project
 
-coming soon...
+This is a fun one.  Head over to [The MovieDB API](https://developers.themoviedb.org/3) and get as familiar with it as possible.  Get an API key and figure out how to query for all things related to movies.  Once familiar, do your best to clone your favorite movie site, whether that be Netflix, Hulu, etc.  It doesn't have to be perfect(or be a fully fledged streaming platform), but it should look and function almost the same from at least the search and browse functionality perspective. You can even used the provided links to trailers for rendering video.
+
+##### Inspiration
+  - (Cool UI)[https://skempin.github.io/reactjs-tmdb-app/]
+  - (Netflix Clone)[http://netflix-clone-9670.surge.sh/]
 
 ### Advanced React
 
@@ -315,11 +318,6 @@ While a lot shorter than the previous course, this next one will really cement y
 ##### Courses
 
 - [Advanced React/Redux](https://www.udemy.com/react-redux-tutorial/)
-
-
-### Fifth Project
-
-coming soon...
 
 ### Full Stack Development with React
 
