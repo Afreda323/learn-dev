@@ -310,7 +310,12 @@ coming soon...
 
 ### Advanced React
 
-coming soon...
+While a lot shorter than the previous course, this next one will really cement your knowledge in React, as well as show you some common use cases and best practices when it comes to React.
+
+##### Courses
+
+- [Advanced React/Redux](https://www.udemy.com/react-redux-tutorial/)
+
 
 ### Fifth Project
 
