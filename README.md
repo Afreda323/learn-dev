@@ -329,7 +329,13 @@ Now that your're a UI development pro, it's time to take a peak onto the server 
 
 ### Final Front End Project
 
-coming soon...
+For your final front end project, you should take eveything you have learned to far and build something.  If there is something that you are passionate about, or feel would make yours or someone else's life easier, use that as inspiration and build an app that solves the problem.
+
+##### Inspiration
+
+- https://reactjs.org/community/examples.html
+- https://remigiusz-wasiak.github.io/spaceX/
+- http://spacexplorer.xyz/
 
 ##### Inspiration
 - 
