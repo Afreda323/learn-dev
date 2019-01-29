@@ -329,7 +329,7 @@ Now that your're a UI development pro, it's time to take a peak onto the server 
 
 ### Final Front End Project
 
-For your final front end project, you should take eveything you have learned to far and build something.  If there is something that you are passionate about, or feel would make yours or someone else's life easier, use that as inspiration and build an app that solves the problem.
+For your final front end project, you should take eveything you have learned to far and build something. If there is something that you are passionate about, or feel would make yours or someone else's life easier, use that as inspiration and build an app that solves the problem.
 
 ##### Inspiration
 
@@ -339,11 +339,15 @@ For your final front end project, you should take eveything you have learned to 
 
 ## Getting Job Ready
 
-coming soon...
+The time has come to get you a sweet dev job. Youve sunk hundreds of hours into this(I hope) and it's time for the big payoff.
 
 ### Data Structures and Algorithms
 
-coming soon...
+Interviews at tech companies usually revolve around code challenges similar to the ones that you've been doing every day, so it should be a breeze. But there is a chance your interview will cover some advanced data structure and algorithm challenges. Below is a course that will make you a pro at those as well.
+
+##### Course
+
+- [Coding Interview Bootcamp](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure/)
 
 ### Interview Prep
 
