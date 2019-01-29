@@ -277,7 +277,7 @@ From this point forward, you will be learning the ins and outs of [React](https:
 
 The following course covers just about everything you would need to become a React developer. It starts at the basics and then moves on to using tools like [Redux](https://redux.js.org/), as well as a bunch of cutting edge React features like hooks.
 
-##### Courses
+##### Course
 
 - [Modern React/Redux](https://www.udemy.com/react-redux/)
 
@@ -304,27 +304,35 @@ Here are some tools that should help you with react development.
 
 ### Fourth Project
 
-This is a fun one.  Head over to [The MovieDB API](https://developers.themoviedb.org/3) and get as familiar with it as possible.  Get an API key and figure out how to query for all things related to movies.  Once familiar, do your best to clone your favorite movie site, whether that be Netflix, Hulu, etc.  It doesn't have to be perfect(or be a fully fledged streaming platform), but it should look and function almost the same from at least the search and browse functionality perspective. You can even used the provided links to trailers for rendering video.
+This is a fun one. Head over to [The MovieDB API](https://developers.themoviedb.org/3) and get as familiar with it as possible. Get an API key and figure out how to query for all things related to movies. Once familiar, do your best to clone your favorite movie site, whether that be Netflix, Hulu, etc. It doesn't have to be perfect(or be a fully fledged streaming platform), but it should look and function almost the same from at least the search and browse functionality perspective. You can even used the provided links to trailers for rendering video.
 
 ##### Inspiration
-  - (Cool UI)[https://skempin.github.io/reactjs-tmdb-app/]
-  - (Netflix Clone)[http://netflix-clone-9670.surge.sh/]
+
+- (Cool UI)[https://skempin.github.io/reactjs-tmdb-app/]
+- (Netflix Clone)[http://netflix-clone-9670.surge.sh/]
 
 ### Advanced React
 
 While a lot shorter than the previous course, this next one will really cement your knowledge in React, as well as show you some common use cases and best practices when it comes to React.
 
-##### Courses
+##### Course
 
 - [Advanced React/Redux](https://www.udemy.com/react-redux-tutorial/)
 
 ### Full Stack Development with React
 
-coming soon...
+Now that your're a UI development pro, it's time to take a peak onto the server side. The next course shows you the basics of using React to interact with a backend that you will also create.
+
+##### Course
+
+- [Node with React](https://www.udemy.com/node-with-react-fullstack-web-development/)
 
 ### Final Front End Project
 
 coming soon...
+
+##### Inspiration
+- 
 
 ## Getting Job Ready
 
@@ -347,9 +355,10 @@ coming soon...
 Use everything you have learned and build yourself a new portfolio website to show off your skills. Be sure to fill the same requirements as last time, as well as add some new features.
 
 ##### Inspiration
-  - http://findmatthew.com/
-  - http://rayps.com/
-  - http://cihadturhan.com/
+
+- http://findmatthew.com/
+- http://rayps.com/
+- http://cihadturhan.com/
 
 ### Applying for jobs
 
