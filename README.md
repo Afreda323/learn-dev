@@ -337,9 +337,6 @@ For your final front end project, you should take eveything you have learned to 
 - https://remigiusz-wasiak.github.io/spaceX/
 - http://spacexplorer.xyz/
 
-##### Inspiration
-- 
-
 ## Getting Job Ready
 
 coming soon...
